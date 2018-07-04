@@ -1,0 +1,15 @@
+{
+"cu":{"multiplier":5,"transaction_cost_rate":0.00005,"transaction_cost_amount":0,"margin":0.1,"close_today_discount":0,"tick_size":10},
+"al":{"multiplier":5,"transaction_cost_rate":0,"transaction_cost_amount":3,"margin":0.1,"close_today_discount":0,"tick_size":5},
+"zn":{"multiplier":5,"transaction_cost_rate":0,"transaction_cost_amount":3,"margin":0.1,"close_today_discount":0,"tick_size":5},
+"pb":{"multiplier":5,"transaction_cost_rate":0.00004,"transaction_cost_amount":0,"margin":0.1,"close_today_discount":0,"tick_size":5},
+"ni":{"multiplier":1,"transaction_cost_rate":0,"transaction_cost_amount":6,"margin":0.1,"close_today_discount":1,"tick_size":10},
+"sn":{"multiplier":1,"transaction_cost_rate":0,"transaction_cost_amount":3,"margin":0.07,"close_today_discount":0,"tick_size":10},
+"au":{"multiplier":1000,"transaction_cost_rate":0,"transaction_cost_amount":10,"margin":0.05,"close_today_discount":0,"tick_size":0.05},
+"ag":{"multiplier":15,"transaction_cost_rate":0.00005,"transaction_cost_amount":0,"margin":0.06,"close_today_discount":1,"tick_size":1},
+"rb":{"multiplier":10,"transaction_cost_rate":0.0001,"transaction_cost_amount":0,"margin":0.11,"close_today_discount":1,"tick_size":1},
+"wr":{"multiplier":10,"transaction_cost_rate":0.00004,"transaction_cost_amount":0,"margin":0.2,"close_today_discount":1,"tick_size":1},
+"hc":{"multiplier":10,"transaction_cost_rate":0.0001,"transaction_cost_amount":0,"margin":0.08,"close_today_discount":1,"tick_size":1},
+"bu":{"multiplier":10,"transaction_cost_rate":0.0001,"transaction_cost_amount":0,"margin":0.08,"close_today_discount":1,"tick_size":2},
+"ru":{"multiplier":10,"transaction_cost_rate":0.000045,"transaction_cost_amount":0,"margin":0.12,"close_today_discount":1,"tick_size":5}
+}
